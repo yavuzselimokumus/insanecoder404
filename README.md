@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @insanecoder404
-- 👀 I’m interested in game coding
-- 🌱 I’m currently learning gaming codes
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Active Directory
 - 💞️ I’m looking to collaborate on coders
 - 📫 How to reach me yavuzselimokms@gmail.com
 
